@@ -12,7 +12,7 @@ public class AppTest
 {
 	
 	private void devTest(){
-		
+		String algo="hola";
 	}
 	
     /**
